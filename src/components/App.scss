@@ -1,0 +1,22 @@
+.counter {
+  padding: 50px;
+  width: 300px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.counter button {
+  font-size: 2em;
+}
+
+.count {
+  font-size: 40px;
+  text-align: center;
+  flex-grow: 1;
+  font-weight: bold;
+}
+
+.count-string {
+  margin-left: 1rem;
+}
